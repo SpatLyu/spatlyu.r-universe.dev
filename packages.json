@@ -6,5 +6,9 @@
   {
     "package": "tidyrgeoda",
     "url": "https://github.com/SpatLyu/tidyrgeoda"
+  },
+  {
+    "package": "gdverse",
+    "url": "https://github.com/SpatLyu/gdverse"
   }
 ]
