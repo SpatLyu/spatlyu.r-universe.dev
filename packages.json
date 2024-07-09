@@ -10,5 +10,9 @@
   {
     "package": "gdverse",
     "url": "https://github.com/SpatLyu/gdverse"
+  },
+  {
+    "package": "geocomplexity",
+    "url": "https://github.com/SpatLyu/geocomplexity"
   }
 ]
