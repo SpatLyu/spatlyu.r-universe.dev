@@ -14,5 +14,9 @@
   {
     "package": "geocomplexity",
     "url": "https://github.com/SpatLyu/geocomplexity"
+  },
+  {
+    "package": "geocn",
+    "url": "https://github.com/SpatLyu/geocn"
   }
 ]

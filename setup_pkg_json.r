@@ -1,4 +1,5 @@
 # setwd('c:/Users/dell/Downloads/pkgdev/r-uni/')
+# setwd('d:/download/pkgdev/spatlyu.r-universe.dev/')
 
 df = data.frame(
   package = c("spEcula", "tidyrgeoda", "gdverse", "geocomplexity", "geocn"),
