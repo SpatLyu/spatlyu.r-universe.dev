@@ -2,10 +2,9 @@
 # setwd('d:/download/pkgdev/r-uni/')
 
 df = data.frame(
-  package = c("spEcula", "tidyrgeoda", "sdsfun"),
+  package = c("spEcula", "tidyrgeoda"),
   url = c("https://github.com/SpatLyu/spEcula", 
-          "https://github.com/SpatLyu/tidyrgeoda",
-          "https://github.com/SpatLyu/sdsfun"),
-  subdir = rep(NA,3)
+          "https://github.com/SpatLyu/tidyrgeoda"),
+  subdir = rep(NA,2)
 )
 jsonlite::write_json(df, 'packages.json', pretty = TRUE)
