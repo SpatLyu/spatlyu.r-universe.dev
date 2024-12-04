@@ -6,5 +6,9 @@
   {
     "package": "tidyrgeoda",
     "url": "https://github.com/SpatLyu/tidyrgeoda"
+  },
+  {
+    "package": "HSAR",
+    "url": "https://github.com/SpatLyu/HSAR"
   }
 ]
